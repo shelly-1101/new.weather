@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/refresh"
+         android:title="Refresh"
+         app:showAsAction="never" />
+
+    <item android:id="@+id/get_location"
+        android:title="Get Location on Map"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/share"
+        android:title="Share"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/About"
+        android:title="About"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/rate_it"
+        android:title="Rate it"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/exit"
+        android:title="Exit"
+        app:showAsAction="never" />
+</menu>
